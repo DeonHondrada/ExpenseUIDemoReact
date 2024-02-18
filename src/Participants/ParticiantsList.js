@@ -17,7 +17,7 @@ function ParticiantsList() {
       <ListGroup.Item>Alfred Mag-aso</ListGroup.Item>
       <ListGroup.Item>13</ListGroup.Item>
       <ListGroup.Item>Francis Olano</ListGroup.Item>
-      <ListGroup.Item>15</ListGroup.Item>
+      <ListGroup.Item>Hondrada John Mark</ListGroup.Item>
       <ListGroup.Item>16</ListGroup.Item>
       <ListGroup.Item>Khemark Ocariza</ListGroup.Item>
       <ListGroup.Item>18</ListGroup.Item>
@@ -28,7 +28,7 @@ function ParticiantsList() {
       <ListGroup.Item>Jestoni Villarta</ListGroup.Item>
       <ListGroup.Item>24</ListGroup.Item>
       <ListGroup.Item>Jay Ann Torres</ListGroup.Item>
-      <ListGroup.Item>Hondrada John Mark</ListGroup.Item>
+      
     </ListGroup>
   );
 }
